@@ -1,4 +1,3 @@
-
 # Olá, eu sou Yan Rodrigues!
 
 Sou um cientista de dados com conhecimento em *Excel, SQL, Protheus*, trabalho com projetos focadas na gestão de processos e negócios.
